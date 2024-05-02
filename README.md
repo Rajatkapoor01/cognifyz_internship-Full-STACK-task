@@ -10,7 +10,9 @@ This internship project is designed to provide you with hands-on experience in f
 
 - **Task 1: HTML Structure and Basic Server Interaction**
   ![Task 1 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/Task1.png)
-   ![Task 1 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/task01.png>
+   
+  ![Task 1 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/task01.png)
+   
   
 - **Task 2: Inline Styles, Basic Interaction, and Server-Side Validation**)
   ![Task 2 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/task2.png)
