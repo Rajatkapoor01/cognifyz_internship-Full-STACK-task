@@ -24,8 +24,8 @@ This internship project is designed to provide you with hands-on experience in f
 
 
 - **Task 4: Complex Form Validation and Dynamic DOM Manipulation**
-  ![Task 4 Screenshot](screenshots/task4.png)
-
+  ![Task 4 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/Task004.png)
+  ![Task 4 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/Task4.png)
 - **Task 5: API Integration and Front-End Interaction**
   ![Task 5 Screenshot](https://github.com/Rajatkapoor01/cognifyz_internship-TASKS/blob/master/SCREENSHORT/Task5.png)
 
