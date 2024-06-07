@@ -42,13 +42,9 @@ This internship project is designed to provide you with hands-on experience in f
 <div align="center">
 <h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
-<p align="center">
-    <a href="https://github.com/Rajatkapoor01" target="_blank" rel="noreferrer"><img alt="Github" width="37px" src="https://www.linkedin.com/in/rajat-kapoor-732042289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a> &nbsp&nbsp&nbsp
-    <a href="linkedin.com/in/rajat-kapoor-732042289" target="_blank"><img alt="LinkedIn" width="35px" src="linkedin.com/in/rajat-kapoor-732042289
-"></a> &nbsp&nbsp&nbsp
-    
-    <a href="https://www.instagram.com/Rajat._.kapoor" target="_blank"><img alt="Instagram" width="35px" src="https://www.instagram.com/rajat._.kapoor?igsh=Z3VvNzgxMDJ2ajc3
-"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:rajar01kapoor@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="rajat01kapoor@gmail.com"></a>&nbsp&nbsp&nbsp
-<p align="right">(<a href="#top">Back to top</a>)</p>
-</p> 
+<p align="left">
+<a href="https://linkedin.com/in/rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
+<a href="https://kaggle.com/rajatkapoor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajatkapoor01" height="30" width="40" /></a>
+<a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a>
+</p>
